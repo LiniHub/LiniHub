@@ -1,6 +1,6 @@
 # I am Lini🧑🏻‍🚀
 
-## 🧛🏻 About Me
+## 🧛🏻 Characteristic Information
 
 #### - 🧑🏻‍🎓 I am a High School Student.
 #### - 💻 I am working as develeoper in our school's UAV team
