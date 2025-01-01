@@ -10,8 +10,8 @@
 
 ## 💻 Software Information that I use
 #### *OS*: Arch Linux
-#### *Programing Languages*: Python,LUA
-#### *Libraries which I know*: OS,Pandas,OpenCV,Matplotlib
+#### *Programing Languages*: Python, Lua
+#### *Libraries which I know*: OS, Pandas, OpenCV, Matplotlib
 
 ⣿⣿⣿⣶⣤⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣧⡘⣿⣿⠿⢛⠻⣿⣿⠿⠿⣿  
